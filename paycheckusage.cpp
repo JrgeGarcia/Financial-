@@ -11,7 +11,7 @@ B = savings 20 %
 C = spending 10 %
 */
 
-double payment = 1444.32 * 4; // weekley payment 
+double payment = 1000 * 4; // weekley payment 
 double A = 0.7, B = 0.2, C = 0.1;
 double A1 = A * payment;
 double B1 = B * payment;
